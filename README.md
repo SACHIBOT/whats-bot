@@ -9,7 +9,7 @@
 
 # Setup
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@SACHIBOT/BLACK-PANTHER-MD-V2-QR?v=1nexusNw/Md-Scanner?outputonly=1&lite=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@black-pantherpa/Black-Panther-MD-QR?v=1nexusNw/Md-Scanner?outputonly=1&lite=1)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SACHIBOT/BLACK-PANTHER-MD-V2)
 
